@@ -1,0 +1,8 @@
+file 'C:\Users\Ikram\Desktop\AI_PostCast_Project\audio\speaker1_0.mp3'
+file 'C:\Users\Ikram\Desktop\AI_PostCast_Project\audio\speaker2_0.mp3'
+file 'C:\Users\Ikram\Desktop\AI_PostCast_Project\audio\speaker1_1.mp3'
+file 'C:\Users\Ikram\Desktop\AI_PostCast_Project\audio\speaker2_1.mp3'
+file 'C:\Users\Ikram\Desktop\AI_PostCast_Project\audio\speaker1_2.mp3'
+file 'C:\Users\Ikram\Desktop\AI_PostCast_Project\audio\speaker2_2.mp3'
+file 'C:\Users\Ikram\Desktop\AI_PostCast_Project\audio\speaker1_3.mp3'
+file 'C:\Users\Ikram\Desktop\AI_PostCast_Project\audio\speaker2_3.mp3'
