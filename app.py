@@ -17,7 +17,7 @@ if uploaded_file is not None:
         with open("Groq_Cleaned_Text.txt", "w", encoding="utf-8") as f:
             f.write(text)
 
-        st.success("✅ PDF uploaded and text extracted successfully!")
+        st.success("PDF uploaded and text extracted successfully!")
 
         if st.button("Generate Podcast Episode"):
             output_file = generate_podcast()
